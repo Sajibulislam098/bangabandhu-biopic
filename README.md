@@ -1,3 +1,10 @@
+# Bangabandhu  Sheikh Mujibur Rahman
+
 live Website link : https://bangabandhu-biopic.netlify.app/
 
-This Site is about a Film ,which will be held via Bangabandhu Sheikh Mujibur Rahman biopic.Where deferent types of bangaledhi actor are added who are applicable to play these role.
+## Some heros and heroines ar there who are applicable to do this film,
+
+## There are a button called (Add TO Cart),to add actors numbers and their fees
+
+## by clicking button ,actors image and name will visible in cart
+
