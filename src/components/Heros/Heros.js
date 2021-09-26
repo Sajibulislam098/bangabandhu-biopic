@@ -6,13 +6,13 @@ const Heros = (props) => {
     return (
         <div className="col-md-4 g-4">
             <div className="col">
-                <div className="card h-100">
+                <div className="card card-bg h-100 text-light">
                     <img src={img} className="card-img-top mt-2  m-auto image" alt="..." />
                     <div className="card-body ">
-                        <h4 className="card-title">{name}</h4>
+                        <h4 className="">{name}</h4>
                         <h6 className="card-text">as {characterName}</h6>
                         <h6>Age:{age}</h6>
-                        <h6>Salary:{fee}</h6>
+                        <h6>Salary:$ {fee}</h6>
                     </div>
                     <button
                         onClick={() => props.handleAddHeros(props.heros)}

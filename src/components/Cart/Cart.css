@@ -1,6 +1,9 @@
 .cart {
   margin-top: 22px;
   border-radius: 10px;
+  background-color: #0000009d;
+  /* border: 1px solid salmon; */
+  /* border-radius: 10px; */
 }
 .cartImage {
   height: 80px;
