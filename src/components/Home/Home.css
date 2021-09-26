@@ -1,0 +1,17 @@
+.body {
+  background: url(/src/components/Images/1.png);
+}
+.text {
+  color: green;
+}
+
+.header {
+  background-color: rgba(248, 239, 239, 0.521);
+  margin-left: 20px;
+  margin-right: 20px;
+  padding: 5px;
+  border-radius: 10px;
+}
+.hero-body {
+  padding: 20px;
+}
