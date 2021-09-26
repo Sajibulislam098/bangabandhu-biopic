@@ -23,9 +23,9 @@ const Home = () => {
         <div className="body">
             <div className="header ">
                 <h3>Biopic of</h3>
-                <h1 className="text">Banghabandhu<span className="colorText"> Sheikh Mujibur</span> Rahman </h1>
-                <h4>Highly Experienced Actor are Acting in this Film</h4>
-                <h4>Total Budget:1000 Millon</h4>
+                <h1 className="text">Banghabandhu Sheikh Mujibur Rahman </h1>
+                <h4>Highly Experienced Actors are here,who are Applicable in this Film.Choose from below...</h4>
+                <h2>Total Budget:$1000 Million</h2>
             </div>
 
             <div className="row hero-body">

@@ -4,6 +4,7 @@
         "name": "Arefin Shovo",
         "characterName": "Sheikh Mujibur Rahman",
         "age": 39,
+        "country": "Bangladesh",
         "fee": 5000000
     },
     {
@@ -11,13 +12,15 @@
         "name": " Misha Sawdagor",
         "characterName": "General Ayub Khan ",
         "age": 60,
+        "country": "Bangladesh",
         "fee": 4800000
     },
     {
-        "img": "https://www.sonalinews.com/media/imgAll/2020OctoberNew/nusrat-20201031115902.jpg",
+        "img": "https://smallbiography.com/wp-content/uploads/2020/11/nusrat-fariya-1-edited.jpg",
         "name": " Nusraat Faria Mazhar",
         "characterName": " Sheikh Hasina",
         "age": 30,
+        "country": "Bangladesh",
         "fee": 3000000
     },
     {
@@ -25,6 +28,7 @@
         "name": "Chanchal Chowdhury ",
         "characterName": " Sheikh Lutfar Rahman",
         "age": 42,
+        "country": "Bangladesh",
         "fee": 4500000
     },
     {
@@ -32,6 +36,7 @@
         "name": "Nusrat Imrose Tisha ",
         "characterName": "Renu(sheikh Fazilatunnesa) ",
         "age": 35,
+        "country": "Bangladesh",
         "fee": 4000000
     },
     {
@@ -39,6 +44,7 @@
         "name": "Sabila Nur ",
         "characterName": "Sheikh Rehana ",
         "age": 32,
+        "country": "Bangladesh",
         "fee": 3600000
     },
     {
@@ -46,6 +52,7 @@
         "name": " Fazlur Rahman Babu",
         "characterName": " Khondaker Mostaq Ahmad",
         "age": 59,
+        "country": "Bangladesh",
         "fee": 4600000
     },
     {
@@ -53,6 +60,7 @@
         "name": " Siam Ahmed",
         "characterName": "Shamsul Huq",
         "age": 35,
+        "country": "Bangladesh",
         "fee": 4700000
     },
     {
@@ -60,6 +68,7 @@
         "name": "Riaz ",
         "characterName": "Tajuddin Ahmad",
         "age": 55,
+        "country": "Bangladesh",
         "fee": 4500000
     },
     {
@@ -67,6 +76,7 @@
         "name": " Tauquir Ahmed",
         "characterName": " Huseyn Shaheed Suhrawardy",
         "age": 39,
+        "country": "Bangladesh",
         "fee": 4500000
     },
     {
@@ -74,6 +84,7 @@
         "name": "Somu Chowdhury ",
         "characterName": " Qamaruzzaman",
         "age": 60,
+        "country": "Bangladesh",
         "fee": 3500000
     },
     {
@@ -81,6 +92,7 @@
         "name": "Shatabdi Wadud ",
         "characterName": " Pakistani Army office",
         "age": 39,
+        "country": "Bangladesh",
         "fee": 4500000
     }
 ]

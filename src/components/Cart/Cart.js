@@ -12,11 +12,14 @@ const Cart = (props) => {
             <h3>Total Cost:$ <span className="text-warning">{total}</span></h3>
             <ul>
                 {
-                    cart.map(hName => <div
+                    cart.map(hName => <div>
 
-                        className="d-flex p-2 cart-list text-;ight        ">
-                        <img className="cartImage" src={hName.img} alt="" />
-                        <h4>{hName.name}</h4>
+                        <div className="d-flex p-2 cart-list text-light">
+
+                            <img className="cartImage" src={hName.img} alt="" />
+                            <h4>{hName.name}</h4>
+                        </div>
+                        <hr />
 
                     </div>)
                 }
